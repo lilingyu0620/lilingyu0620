@@ -1,4 +1,11 @@
-### Hi there 👋
+### 个人简介
+
+- 🔭 专注iOS和音视频方向
+- 🌱 在通往资深工程师的路上苦行
+- 🤔 思考和探索技术，人生和世界的本质ing
+- 😄 喜欢阅读，🎸爱好者，资深🏀场饮水机管理员
+- 💪 fighting
+
 
 <!--
 **lilingyu0620/lilingyu0620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
